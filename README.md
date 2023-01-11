@@ -7,6 +7,8 @@ Steps followed:
 
 
 1. Data Preprocessing:
+
+
 – Load data into sentences and labels, split into training, validation, and test set. Report
 the data distribution in a table.
 – Remove punctuation, urls, and numbers. Change text to lower case.
@@ -14,6 +16,8 @@ the data distribution in a table.
 – Feature extraction: build your TF-IDF feature extractor for the provided dataset.
 
 2. Build Logistic Regression Classifier
+
+
 – Derive the gradient of the objective function of LR with respect to w. Please write
 down detailed steps.
 – Implement this Logistic Regression model. This step includes writing code for initial-
