@@ -18,8 +18,6 @@ the data distribution in a table.
 2. Build Logistic Regression Classifier
 
 
-– Derive the gradient of the objective function of LR with respect to w. Please write
-down detailed steps.
 – Implement this Logistic Regression model. This step includes writing code for initial-
 ization, objective function, gradient, and gradient descent.
 – Implement evaluation metrics, including accuracy, precision, recall, and F1 score.
