@@ -13,7 +13,8 @@ the data distribution in a table.
 – Tokenize input text into tokens, including word stemming and removing stopwords.
 – Feature extraction: build your TF-IDF feature extractor for the provided dataset.
 
-2. – Derive the gradient of the objective function of LR with respect to w. Please write
+2. Build Logistic Regression Classifier
+– Derive the gradient of the objective function of LR with respect to w. Please write
 down detailed steps.
 – Implement this Logistic Regression model. This step includes writing code for initial-
 ization, objective function, gradient, and gradient descent.
